@@ -10,4 +10,4 @@ function makeBricks(small, big, goal){
     }
   
     return true;
-  }
+}
